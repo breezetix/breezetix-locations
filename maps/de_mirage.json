@@ -280,28 +280,10 @@
     "viewangles": [-13.034976959229, 171.87487792969]
   },
   {
-    "name": ["Ticket", "Sandwich"],
-    "weapon": "weapon_hegrenade",
-    "position": [-1062.611328125, -2516.4826660156, -167.96875],
-    "viewangles": [-9.3390064239502, 49.873943328857],
-    "grenade": {
-      "run": 15
-    }
-  },
-  {
     "name": ["Ticket", "Tetris"],
     "weapon": "weapon_hegrenade",
     "position": [-1087.4453125, -2500.4692382813, -167.96875],
     "viewangles": [-14.256281852722, 45.845252990723],
-    "grenade": {
-      "run": 15
-    }
-  },
-  {
-    "name": ["Ticket", "Sandwich"],
-    "weapon": "weapon_molotov",
-    "position": [-1062.611328125, -2516.4826660156, -167.96875],
-    "viewangles": [-9.3390064239502, 49.873943328857],
     "grenade": {
       "run": 15
     }
