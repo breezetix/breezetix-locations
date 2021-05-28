@@ -402,28 +402,6 @@
     }
   },
   {
-    "name": ["Short", "Connector"],
-    "weapon": "weapon_hegrenade",
-    "position": [-982.26641845703, 285.28228759766, -167.86177062988],
-    "viewangles": [15.439406394958, -74.846527099609],
-    "grenade": {
-      "run": 5,
-      "recovery_yaw": -90,
-      "jump": true
-    }
-  },
-  {
-    "name": ["Short", "Connector"],
-    "weapon": "weapon_molotov",
-    "position": [-982.26641845703, 285.28228759766, -167.86177062988],
-    "viewangles": [15.439406394958, -74.912521362305],
-    "grenade": {
-      "run": 5,
-      "recovery_yaw": -90,
-      "jump": true
-    }
-  },
-  {
     "name": ["Short", "B Apps"],
     "weapon": "weapon_hegrenade",
     "position": [-1265.3466796875, 366.27404785156, -166.47853088379],
