@@ -399,42 +399,6 @@
     }
   },
   {
-    "name": ["Connector", "Carts (Left)"],
-    "description": "Risky",
-    "weapon": "weapon_hegrenade",
-    "position": [-647.54766845703, -842.09649658203, -262.91680908203],
-    "viewangles": [5.9383640289307, -0.45650696754456],
-    "grenade": {
-      "run": 10,
-      "run_yaw": 90,
-      "jump": true
-    }
-  },
-  {
-    "name": ["Connector", "Carts (Right)"],
-    "description": "Risky",
-    "weapon": "weapon_hegrenade",
-    "position": [-646.84405517578, -824.98004150391, -263.96875],
-    "viewangles": [6.9616003036499, -9.3032865524292],
-    "grenade": {
-      "run": 10,
-      "run_yaw": 90,
-      "jump": true
-    }
-  },
-  {
-    "name": ["Connector", "Carts (Middle)"],
-    "description": "Risky",
-    "weapon": "weapon_molotov",
-    "position": [-647.40411376953, -830.00854492188, -263.96875],
-    "viewangles": [6.3014554977417, -6.0003290176392],
-    "grenade": {
-      "run": 10,
-      "run_yaw": 90,
-      "jump": true
-    }
-  },
-  {
     "name": ["Connector", "Chair"],
     "weapon": "weapon_molotov",
     "position": [-691.84497070313, -911.96752929688, -227.98127746582],
