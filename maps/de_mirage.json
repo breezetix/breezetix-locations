@@ -856,5 +856,75 @@
     "grenade": {
       "run": 20
     }
+  },
+  {
+    "name": ["Connector", "Carts"],
+    "weapon": "weapon_molotov",
+    "position": [-715.84564208984, -892.37573242188, -237.7801361084],
+    "viewangles": [-4.6156311035156, 40.107875823975],
+    "grenade": {
+      "run": 20,
+      "jump": true
+    }
+  },
+  {
+    "name": ["CT", "Sandwich"],
+    "weapon": "weapon_molotov",
+    "position": [-1093.83203125, -2536.1518554688, -167.96875],
+    "viewangles": [-6.7649097442627, 48.312793731689],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["CT", "Sandwich"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1093.8292236328, -2536.1486816406, -167.96875],
+    "viewangles": [-6.7649097442627, 48.312793731689],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["CT", "A Main"],
+    "description": "Molly is better",
+    "weapon": "weapon_hegrenade",
+    "position": [-1163.8856201172, -2426.8186035156, -171.49285888672],
+    "viewangles": [9.4379510879517, 31.548671722412],
+    "grenade": {
+      "run": 20,
+      "jump": true
+    }
+  },
+  {
+    "name": ["CT", "A Main"],
+    "weapon": "weapon_molotov",
+    "position": [-1163.8751220703, -2426.8122558594, -171.49285888672],
+    "viewangles": [9.4379510879517, 31.548671722412],
+    "grenade": {
+      "run": 20,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Short", "Connector"],
+    "weapon": "weapon_molotov",
+    "position": [-988.10595703125, 293.00662231445, -166.58882141113],
+    "viewangles": [-28.776481628418, -73.819442749023],
+    "grenade": {
+      "strength": 0.5,
+      "run": 10
+    }
+  },
+  {
+    "name": ["Short", "Connector"],
+    "description": "Molly is better",
+    "weapon": "weapon_hegrenade",
+    "position": [-988.11041259766, 293.02203369141, -166.58882141113],
+    "viewangles": [-28.776481628418, -73.819442749023],
+    "grenade": {
+      "strength": 0.5,
+      "run": 20
+    }
   }
 ]
