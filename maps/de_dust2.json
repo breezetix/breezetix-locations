@@ -1,0 +1,60 @@
+[
+  {
+    "name": ["Long Doors", "Pit"],
+    "weapon": "weapon_hegrenade",
+    "position": [662.32629394531, 800.11547851563, 0.30025863647461],
+    "viewangles": [-5.5038871765137, -6.4004287719727],
+    "grenade": {
+      "run": 5
+    }
+  },
+  {
+    "name": ["Long Doors", "Pit"],
+    "weapon": "weapon_molotov",
+    "position": [662.32153320313, 800.11608886719, 0.30025863647461],
+    "viewangles": [-5.5038871765137, -6.4004287719727],
+    "grenade": {
+      "run": 5
+    }
+  },
+  {
+    "name": ["Cat", "Fakeduck"],
+    "weapon": "weapon_hegrenade",
+    "position": [-81.578132629395, 1495.0169677734, 0.22732162475586],
+    "viewangles": [-10.684844017029, -102.00542449951],
+    "grenade": {
+      "run": 5
+    }
+  },
+  {
+    "name": ["Cat", "Fakeduck"],
+    "weapon": "weapon_molotov",
+    "position": [-81.576477050781, 1495.0247802734, 0.22732162475586],
+    "viewangles": [-10.684844017029, -102.00542449951],
+    "grenade": {
+      "run": 5
+    }
+  },
+  {
+    "name": ["Top of Mid", "Cat"],
+    "weapon": "weapon_hegrenade",
+    "position": [-26.960083007813, 324.74221801758, -0.21883010864258],
+    "viewangles": [6.6067924499512, 115.9241104126],
+    "grenade": {
+      "run": 20,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Top of Mid", "Cat"],
+    "weapon": "weapon_molotov",
+    "position": [-26.953868865967, 324.72943115234, -0.21883010864258],
+    "viewangles": [6.6067924499512, 115.9241104126],
+    "grenade": {
+      "run": 20,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  }
+]
