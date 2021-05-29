@@ -1,0 +1,92 @@
+[
+  {
+    "name": ["Banana", "Top of Banana"],
+    "weapon": "weapon_hegrenade",
+    "position": [-75.534042358398, 1351.8154296875, 105.04756164551],
+    "viewangles": [-12.312507629395, 40.248737335205],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Banana", "Top of Banana"],
+    "weapon": "weapon_molotov",
+    "position": [-75.54264831543, 1351.8081054688, 105.04756164551],
+    "viewangles": [-12.312507629395, 40.248737335205],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["A Library", "Corner of A Site"],
+    "weapon": "weapon_hegrenade",
+    "position": [2250.0639648438, 945.52325439453, 160.03125],
+    "viewangles": [-7.823899269104, -105.17751312256],
+    "grenade": {
+      "run": 15
+    }
+  },
+  {
+    "name": ["A Library", "Corner of A Site"],
+    "weapon": "weapon_molotov",
+    "position": [2250.0603027344, 945.50946044922, 160.03125],
+    "viewangles": [-7.823899269104, -105.17751312256],
+    "grenade": {
+      "run": 15
+    }
+  },
+  {
+    "name": ["A Library", "Fakeduck"],
+    "weapon": "weapon_hegrenade",
+    "position": [2250.0666503906, 945.54229736328, 160.03125],
+    "viewangles": [-0.62987810373306, -106.82749938965]
+  },
+  {
+    "name": ["A Library", "Fakeduck"],
+    "weapon": "weapon_molotov",
+    "position": [2250.0632324219, 945.53143310547, 160.03125],
+    "viewangles": [-0.62987810373306, -106.82749938965]
+  },
+  {
+    "name": ["Arch", "A Site One Way"],
+    "weapon": "weapon_molotov",
+    "position": [2054.9602050781, 1208.6849365234, 174.03125],
+    "viewangles": [-1.9828741550446, -53.170547485352],
+    "grenade": {
+      "run": 30,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Arch", "A Site One Way"],
+    "description": "Molly is better",
+    "weapon": "weapon_hegrenade",
+    "position": [2054.9201660156, 1208.7213134766, 174.03125],
+    "viewangles": [0.49212530255318, -58.120601654053],
+    "grenade": {
+      "run": 30,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Arch", "Pit"],
+    "weapon": "weapon_molotov",
+    "position": [2130.2307128906, 1173.7794189453, 164.6900177002],
+    "viewangles": [-9.3059997558594, -74.352226257324],
+    "grenade": {
+      "run": 30
+    }
+  },
+  {
+    "name": ["Arch", "Pit"],
+    "description": "Molly is better",
+    "weapon": "weapon_hegrenade",
+    "position": [2130.2314453125, 1173.7770996094, 164.6900177002],
+    "viewangles": [-9.3059997558594, -74.352226257324],
+    "grenade": {
+      "run": 30
+    }
+  }
+]
