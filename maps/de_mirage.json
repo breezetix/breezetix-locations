@@ -1,14 +1,5 @@
 [
   {
-    "name": ["A Main", "Palace (Further back)"],
-    "weapon": "weapon_hegrenade",
-    "position": [68.870025634766, -1572.1987304688, -173.94871520996],
-    "viewangles": [-21.96369934082, -94.301414489746],
-    "grenade": {
-      "run": 20
-    }
-  },
-  {
     "name": ["A Main", "Fakeduck"],
     "weapon": "weapon_hegrenade",
     "position": [365.81970214844, -1702.3712158203, -194.87492370605],
@@ -35,15 +26,6 @@
       "run": 25,
       "recovery_yaw": 90,
       "jump": true
-    }
-  },
-  {
-    "name": ["A Main", "Palace"],
-    "weapon": "weapon_hegrenade",
-    "position": [81.069725036621, -1439.0792236328, -175.96875],
-    "viewangles": [-16.156269073486, -94.498641967773],
-    "grenade": {
-      "run": 1
     }
   },
   {
@@ -266,18 +248,6 @@
     "grenade": {
       "run": 13
     }
-  },
-  {
-    "name": ["A Ramp", "Stairs"],
-    "weapon": "weapon_hegrenade",
-    "position": [68.841423034668, -1572.1647949219, -173.95930480957],
-    "viewangles": [-13.034976959229, 171.87487792969]
-  },
-  {
-    "name": ["A Ramp", "Stairs"],
-    "weapon": "weapon_molotov",
-    "position": [68.841423034668, -1572.1647949219, -173.95930480957],
-    "viewangles": [-13.034976959229, 171.87487792969]
   },
   {
     "name": ["Ticket", "Tetris"],
